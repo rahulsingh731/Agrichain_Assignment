@@ -1,6 +1,4 @@
 # Agrichain_Assignment
-# Agrichain Assignment
-
 This repository contains my solution to the Agrichain Assignment. The assignment consists of two problems: a coding task to find the longest substring without repeating characters and a testing task for automating the website testcases.
 
 ## Problem 1: Longest Substring Without Repeating Characters
